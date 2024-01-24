@@ -8,7 +8,7 @@ Third-year project, supervised by Dr Martine Barons. Conducte large scale data a
 
 [Project Repo](https://github.com/YousufMohammed2002/Third-Year-Project)
 
-![Illustrative Figure](/assets-img/ChangeInEmployment.png)
+![Illustrative Figure](/assets-images/ChangeInEmployment.png)
 
 #### Key words
 COVID-19; Mental Health; Psychology; Bayesian Networks; Sensitivity Analysis; Data Analysis
