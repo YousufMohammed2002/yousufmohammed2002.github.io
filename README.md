@@ -6,8 +6,9 @@
 
 Third-year project, supervised by Dr Martine Barons. Conducte large scale data analyses on two data sets to investigate the impacts of the pandemic and the mental health implications of the crisis. Most of this was done using R to celan and preprocesss the data, followed by visualisation and statistical model fitting. Further, a Bayesian Network (Bayes Net) was also used to model the data using the Netica software. 
 
-[Publication](https://github.com/YousufMohammed2002/Third-Year-Project)
+[Project Repo](https://github.com/YousufMohammed2002/Third-Year-Project)
 
+![Illustrative Figure](/assets-img/ChangeInEmployment.png)
 
 #### Key words
 COVID-19; Mental Health; Psychology; Bayesian Networks; Sensitivity Analysis; Data Analysis
