@@ -44,7 +44,11 @@ This project was an evidence-based study of sex and ethnic biases in police inte
 
 ## Executive Summary 
 • The rate of stop-and-searches for black individuals is highest for all three forces (Cleveland, Essex and West Yorkshire) in the 2019/20 financial year, followed by Mixed/Other ethnic groups in Cleveland and Essex, and Asian individuals in West Yorkshire
+
 • White individuals have the lowest stop-and-search rate across all three forces
+
 • Rates of stop-and-searches have increased since 2017/18 for the entire UK population
+
 • Essex has the highest rates of stop-and-searches compared to Cleveland and West Yorkshire for all ethnic groups, particularly with black individuals having a rate over five times higher than white individuals in 2019/2020.
+
 • The proportion of females being stopped and searched is significantly lower compared to males, however, the proportion has been increasing slightly from 2017 to 2022
