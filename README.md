@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-## Hi There! Here are some of the projects that I have done through my data science degree at The University of Warwick
+## Hi There! Here are some of the projects that I have done through my data science degree at the University of Warwick
 
 ### Psychological Impacts of the COVID-19 Pandemic
 
